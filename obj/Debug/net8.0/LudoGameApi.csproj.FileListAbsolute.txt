@@ -271,6 +271,7 @@ C:\Users\bshbe\Ludo-Api\obj\Debug\net8.0\LudoGameApi.AssemblyInfo.cs
 C:\Users\bshbe\Ludo-Api\obj\Debug\net8.0\LudoGameApi.csproj.CoreCompileInputs.cache
 C:\Users\bshbe\Ludo-Api\obj\Debug\net8.0\LudoGameApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\bshbe\Ludo-Api\obj\Debug\net8.0\LudoGameApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bshbe\Ludo-Api\obj\Debug\net8.0\LudoGameApi.sourcelink.json
 C:\Users\bshbe\Ludo-Api\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\bshbe\Ludo-Api\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\bshbe\Ludo-Api\obj\Debug\net8.0\staticwebassets\msbuild.LudoGameApi.Microsoft.AspNetCore.StaticWebAssets.props

@@ -67,7 +67,7 @@ builder.Services.AddSwaggerGen(options =>
 });
 // Database context and other services
 builder.Services.AddDbContext<LudoDbContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 builder.Services.AddSingleton<EmailSender>();
 builder.Services.AddMemoryCache();

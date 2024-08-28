@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GeeksforGeeks</title>
+    <style>
+        h1 {
+            color: green;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>GeeksforGeeks</h1>
+    <h3>without JavaScript:void(0)</h3>
+    <a href="#" ondblclick="alert('Welcome to Geeks for Geeks')">
+        Double click on me
+    </a>
+    <a href="#" ondblclick="geeks()">
+        Double click on me
+    </a>
+    <script>
+        function geeks() {
+            document.getElementById("gfg").innerHTML = 
+            'Welcome to GeeksforGeeks';
+        }
+    </script>
+    <p id="gfg"></p>
+</body>
+
+</html>
